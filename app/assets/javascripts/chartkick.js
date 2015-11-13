@@ -280,6 +280,7 @@
         plotOptions: {
           areaspline: {},
           series: {
+            connectNulls: true,
             marker: {}
           }
         }
